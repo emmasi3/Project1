@@ -11,5 +11,7 @@ int main()
 
 	printf("到底是谁？");
 
+	int a = 3;
+
 	return 0;
 }

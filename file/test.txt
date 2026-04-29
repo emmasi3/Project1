@@ -1,0 +1,11 @@
+int FIleOpen()
+{
+	std::fstream file;
+	file.open("D:\\3\\Project1\\file\\test.txt", std::ios::binary | std::ios::ate);
+
+	if (!file.is_open())
+	{
+		std::cerr << "The file open is failure!" << std::endl;
+		return -1;
+	}
+}2

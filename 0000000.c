@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 int main()
 {
 	int a = 3;
@@ -8,6 +8,8 @@ int main()
 
 	b = a++;
 	printf("%d,%d\n", a, b);
+
+	printf("你好");
 
 	return 0;
 }

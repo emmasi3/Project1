@@ -9,5 +9,7 @@ int main()
 	b = a++;
 	printf("%d,%d\n", a, b);
 
+	printf("到底是谁？");
+
 	return 0;
 }

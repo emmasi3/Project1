@@ -9,8 +9,5 @@ int main()
 	b = a++;
 	printf("%d,%d\n", a, b);
 
-	printf("你好");
-	printf("开始");
-
 	return 0;
 }

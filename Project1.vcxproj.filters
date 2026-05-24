@@ -13,6 +13,15 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="2026_5C++高级开发">
+      <UniqueIdentifier>{b29aee93-29d5-4750-bf25-ab95d3352785}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2026_5C++高级开发\项目问题">
+      <UniqueIdentifier>{c163eed9-f3dd-4bde-bbe8-63a3ddb024ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2026_5C++高级开发\学习_picture_辅助理解">
+      <UniqueIdentifier>{d7acffb5-483b-4724-9f7e-7880edb1cb1a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="(1).c">
@@ -981,10 +990,24 @@
     <ClCompile Include="push_back、emplace_back.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="该教程来源_.cpp">
+      <Filter>2026_5C++高级开发\项目问题</Filter>
+    </ClCompile>
+    <ClCompile Include="1、独享使用过程中背后使用了那些方法.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="2、对象初始化时的调用方法的分析--细.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="picture_study\2、辅助理解.png">
+      <Filter>2026_5C++高级开发\学习_picture_辅助理解</Filter>
+    </Image>
   </ItemGroup>
 </Project>

@@ -993,10 +993,37 @@
     <ClCompile Include="该教程来源_.cpp">
       <Filter>2026_5C++高级开发\项目问题</Filter>
     </ClCompile>
-    <ClCompile Include="1、独享使用过程中背后使用了那些方法.cpp">
+    <ClCompile Include="1-1、独享使用过程中背后使用了那些方法.cpp">
       <Filter>2026_5C++高级开发</Filter>
     </ClCompile>
-    <ClCompile Include="2、对象初始化时的调用方法的分析--细.cpp">
+    <ClCompile Include="1-2、对象初始化时的调用方法的分析--细.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="1-3、总结三条对象优化的规则.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="1-4、CMystring的代码问题--看一下字符串问题.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="1-5、添加带右值引用参数的拷贝构造和赋值函数.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="1-7、move移动语义和forward完美转发.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="2-2、不带引用计数的智能指针.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="2-3、实现带引用计数的智能指针.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="2-4、shared_ptr的交叉(循环)引用问题.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="2-5、多线程访问共享资源的线程安全问题.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="2-6、自定义删除器deletor.cpp">
       <Filter>2026_5C++高级开发</Filter>
     </ClCompile>
   </ItemGroup>

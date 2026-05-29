@@ -1026,6 +1026,24 @@
     <ClCompile Include="2-6、自定义删除器deletor.cpp">
       <Filter>2026_5C++高级开发</Filter>
     </ClCompile>
+    <ClCompile Include="3-4、模板的全特化和偏特化.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6、bind + function实现线程池.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="3-7、lambda表达式的实现原理.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="4-4、线程间互斥--lock_guard、unique_lock区别联系.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="4-6、基于CAS操作的atomic原子类型.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="让AI补充、完善、生成某知识点的总结模板.txt">
+      <Filter>2026_5C++高级开发\项目问题</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.hpp">

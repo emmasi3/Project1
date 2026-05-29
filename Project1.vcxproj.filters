@@ -1044,6 +1044,9 @@
     <ClCompile Include="让AI补充、完善、生成某知识点的总结模板.txt">
       <Filter>2026_5C++高级开发\项目问题</Filter>
     </ClCompile>
+    <ClCompile Include="5-1、单例模式代码设计.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.hpp">

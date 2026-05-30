@@ -1047,6 +1047,12 @@
     <ClCompile Include="5-1、单例模式代码设计.cpp">
       <Filter>2026_5C++高级开发</Filter>
     </ClCompile>
+    <ClCompile Include="5-3、简单工厂和工厂方法模式.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="5-5、代理模式.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.hpp">

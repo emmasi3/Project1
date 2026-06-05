@@ -1056,6 +1056,15 @@
     <ClCompile Include="5-6、装饰器模式.cpp">
       <Filter>2026_5C++高级开发</Filter>
     </ClCompile>
+    <ClCompile Include="5-7、适配器模式.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="5-8、观察者模式.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1、make_shared &amp;&amp; shared_ptr 的区别.cpp">
+      <Filter>2026_5C++高级开发</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.hpp">
@@ -1064,6 +1073,12 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="picture_study\2、辅助理解.png">
+      <Filter>2026_5C++高级开发\学习_picture_辅助理解</Filter>
+    </Image>
+    <Image Include="picture_study\6-1、make_shared.png">
+      <Filter>2026_5C++高级开发\学习_picture_辅助理解</Filter>
+    </Image>
+    <Image Include="picture_study\6-1、shared_ptr.png">
       <Filter>2026_5C++高级开发\学习_picture_辅助理解</Filter>
     </Image>
   </ItemGroup>

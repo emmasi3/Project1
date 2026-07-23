@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <memory>
 #include <thread>
 #include <chrono>
@@ -146,8 +146,10 @@ int main()
 {
 	//test1();
 
-	test2();
+	//test2();
 	//test3();
+
+	std::string filename = "请选择一个文件";
 
 	/*
 	* 总结：

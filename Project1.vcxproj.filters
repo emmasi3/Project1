@@ -984,9 +984,8 @@
     <ClCompile Include="匿名命名空间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="static、inline、namespace匿名.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
+
+
     <ClCompile Include="push_back、emplace_back.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
